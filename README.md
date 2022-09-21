@@ -8,7 +8,7 @@ A theme changer for Waybar
 3. Open the app and change the theme
 4. uhhh i think that's it...
 
-###How to convert your current config into a usable one
+### How to convert your current config into a usable one
 
 1. If you haven't done it yet, create a dir in `~` and name it `wbthemes`
 2. Make a new dir inside `~/wbthemes` with the name of your theme
