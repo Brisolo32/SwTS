@@ -1,6 +1,10 @@
 # SwTS
 A theme changer for Waybar (Now supporting Sway configs!)
 
+### How it works
+
+It overrides the current config with the one selected using the app, there is no need to add something to the waybar or sway configs
+
 ### How to use it
 
 - Create a new directory in `~` called `.swts` and inside there create 2 dirs `wbthemes` and `swconfig`
