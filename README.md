@@ -13,6 +13,7 @@ It overrides the current config with the one selected using the app, there is no
     - All of the configs need to be separated by folders with a specific name
       - Ex: `~/.swts/wbthemes/CoolTheme/...`
       - Another Ex: `~/.swts/swconfig/DefaultConfig/...`
+- After selecting a theme and applying it, reload sway (default keybind is `MOD+Shift+C`)
 
 ### How to convert your current config/theme into a usable one
 
